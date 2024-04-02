@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋 This is Lavanya</h1>
 <h3 align="center">A Cloud Enthusiast!</h3>
 
-- 🔭 I’m currently working on **AWS cloud projects**
-- 🌱 I’m currently learning **Docker & Kubernetes**
+- 🔭 I’m currently working on **AWS Cloud Projects**
+- 🌱 Currently learning **Docker & Kubernetes**
 - 📝 You can find my articles on [https://medium.com/@lavanyakrishnan131](https://medium.com/@lavanyakrishnan131)
-- 📫 How to reach me **lavanyakrishnan.py@gmail.com**
+- 📫 Reach me **lavanyakrishnan.py@gmail.com**
 - 📄 Know about my work experiences [https://www.linkedin.com/in/lavanyakrishnan131/](https://www.linkedin.com/in/lavanyakrishnan131/)
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/lavanyakrishnan131/ </h3>
