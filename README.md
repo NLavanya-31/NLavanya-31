@@ -2,7 +2,7 @@
 <h3 align="center">A Cloud Enthusiast!</h3>
 
 - 🔭 I’m currently working on **AWS Cloud Projects**
-- 🌱 Currently learning **Docker & Kubernetes**
+- 🌱 Currently learning **Docker & Jenkins**
 - 📝 You can find my articles on [https://medium.com/@lavanyakrishnan131](https://medium.com/@lavanyakrishnan131)
 - 📫 Reach me **lavanyakrishnan.py@gmail.com**
 - 📄 Know about my work experiences [https://www.linkedin.com/in/lavanyakrishnan131/](https://www.linkedin.com/in/lavanyakrishnan131/)
